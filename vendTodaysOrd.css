@@ -316,26 +316,6 @@ section {
 }
 
 
-.ld {
-  background-image: url("linkdinNew.png");
-  background-size: cover;
-}
-
-.git {
-  background-image: url("github-logo (1).png");
-  background-size: cover;
-}
-
-.twit {
-  background-image: url("twitterLogo.png");
-  background-size: cover;
-}
-
-.fb {
-  background-image: url("logof.png");
-  background-size: cover;
-}
-
 /* If you don't want the footer to be responsive, remove these media queries */
 
 @media (max-width: 880px) {
