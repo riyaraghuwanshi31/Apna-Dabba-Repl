@@ -800,3 +800,8 @@
     }
 
   }
+
+
+.navbar-brand ,.nav-link{
+  color: black;
+}
